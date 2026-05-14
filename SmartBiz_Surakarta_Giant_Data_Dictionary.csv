@@ -1,0 +1,20 @@
+Field,Keterangan
+Tahun,Tahun Data
+Skenario_Ekonomi,Kondisi Ekonomi Saat Ini
+Kecamatan,Kecamatan
+Kelurahan,Kelurahan
+Jumlah_Penduduk,Total Populasi
+Kepadatan_Penduduk,Jiwa/KM2
+Persentase_Usia_Produktif,% Penduduk 15-64 Tahun
+Rata_Rata_Pendapatan,Pendapatan Per Kapita
+Jumlah_UMKM_Kuliner,Usia Makan/Minum
+Jumlah_UMKM_Jasa,Usia Jasa
+Jumlah_UMKM_Retail,Usia Dagang
+Jumlah_Coffee_Shop,Pesaing Kopi
+Jumlah_Laundry,Pesaing Laundry
+Jumlah_Sekolah_Kampus,Lembaga Pendidikan
+Jumlah_Fasilitas_Kesehatan,Layanan Kesehatan
+Jumlah_Bank_ATM,Akses Keuangan
+Skor_Aksesibilitas,Kemudahan Transportasi
+Indeks_Harga_Properti,Harga Sewa Lokasi
+Volume_Lalu_Lintas_Harian,Keramaian Kendaraan/Hari
